@@ -4,7 +4,7 @@ langcode: en
 uuid: c4d2e99d-6dcb-4dc5-b8c3-263dceb9177c
 name: site-tbp-drupal-05
 mail: yhodlur@pantheon.io
-slogan: ''
+slogan: 'First Drupal Testing site created using Terminus build tools'
 page:
   403: ''
   404: ''
